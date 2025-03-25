@@ -1,3 +1,5 @@
+# DocNest
+
 <h1 align="center">Google-Docs Like Clone With Flutter Web and Appwrite</h1>
 
 <p align="center">  
@@ -59,31 +61,3 @@ Riverpod, and the authentication state from Appwrite, determine which routes to 
 [Equatable](https://pub.dev/packages/equatable): A Dart package that helps implement value-based equality without needing to explicitly override `==` and `hashCode`.
 - [UUID](https://pub.dev/packages/uuid): Simple, fast generation of [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) UUIDs.
 - [Logging](https://pub.dev/packages/logging): Provides APIs for debugging and error logging.
-
-## Tutorial
-The project is split into multiple sections to make the tutorial easy to follow.
-
-### Video Tutorial
-For a complete step-by-step guide, see: https://youtu.be/0_GJ1w_iG44
-
-### Tutorial Sections
-For the most up-to-date code: see the [master branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/master).
-
-The tutorial sections are extracted as dedicated branches on Github, meaning you can easily follow along and always have the latest code before starting new sections.
-
-0. Intro: [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=0s)
-1. Base: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/01-base) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=239s)
-2. Setup Riverpod: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/02-setup_riverpod) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=308s)
-3. Setup Routemaster: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/03-setup_routemaster) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=398s)
-4. Appwrite Setup: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/04-appwrite_setup) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=697s)
-5. Create Authentication Repository: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/05-auth_repository) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=1039s)
-6. Create Auth State Service: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/06-auth_state_service) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=1473s)
-7. Create Login and Register Page: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/07-login_and_register_page) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=2099s)
-8. Add Logged in Routes: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/08-add_logged_in_routes) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=2702s)
-9. Add Document UI and State: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/09-add_document_ui_and_state) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=3118s)
-10. Create Documents: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/10-create_documents) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=4067s)
-11. Update and Save Documents: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/11-update_and_save_documents) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=4695s)
-12. Add Realtime Changes: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/12-realtime_changes) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=5722s)
-13. List All Documents: [branch](https://github.com/funwithflutter/google-docs-clone-flutter/tree/13-list_all_documents) and [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=6525s)
-14. What's Next?: [video](https://www.youtube.com/watch?v=0_GJ1w_iG44&t=7011s)
-# DocNest
