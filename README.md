@@ -40,7 +40,6 @@ Packages used in this project.
 - [Appwrite Github](https://github.com/appwrite/?utm_source=influencer&utm_medium=github&utm_campaign=funwithflutter)
 - [Appwrite Discord](https://discord.com/invite/GSeTUeA?utm_source=influencer&utm_medium=discord&utm_campaign=funwithflutter)
 
-> Appwrite sponsored this project and tutorial
 
 ### Rich Text Editor: Flutter-Quill
 [FlutterQuill](https://pub.dev/packages/flutter_quill) is a rich text editor and a [Quill](https://quilljs.com/docs/formats) component for [Flutter](https://github.com/flutter/flutter). This package makes it easy to sync incremental changes to other editors (real-time changes).
