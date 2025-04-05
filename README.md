@@ -44,10 +44,9 @@ Packages used in this project.
 ### Rich Text Editor: Flutter-Quill
 [FlutterQuill](https://pub.dev/packages/flutter_quill) is a rich text editor and a [Quill](https://quilljs.com/docs/formats) component for [Flutter](https://github.com/flutter/flutter). This package makes it easy to sync incremental changes to other editors (real-time changes).
 
-**Honorable Mentions**: [SuperEditor](https://superlist.com/SuperEditor/)
 
 ### State Management: Riverpod
-[Riverpod](https://riverpod.dev/) is an excellent choice for a state management solution in your Flutter application, and this tutorial demonstrates multiple scenarios where Riverpod truly shines. If you've not used it before, this project may change your mind. The video tutorial highlights numerous excellent features and demos how to structure and organize your providers.
+[Riverpod](https://riverpod.dev/) is an excellent choice for a state management solution in your Flutter application, and this tutorial demonstrates multiple scenarios where Riverpod truly shines.
 
 ### Routing: Routemaster
 [Routemaster](https://pub.dev/packages/routemaster) simplifies the complexity of Flutter's 2.0 Navigator. This project creates two separate route maps:
@@ -55,8 +54,3 @@ Packages used in this project.
 - Not authenticated routes
 
 Riverpod, and the authentication state from Appwrite, determine which routes to allow.
-
-### Other Packages
-[Equatable](https://pub.dev/packages/equatable): A Dart package that helps implement value-based equality without needing to explicitly override `==` and `hashCode`.
-- [UUID](https://pub.dev/packages/uuid): Simple, fast generation of [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) UUIDs.
-- [Logging](https://pub.dev/packages/logging): Provides APIs for debugging and error logging.
